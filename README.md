@@ -1,4 +1,4 @@
-# maven2 Java Web Application
+# maven3 Java Web Application
 
 This project is a Java web application . It follows the Model-View-Controller (MVC) pattern, uses Java 1.8, and demonstrates OAuth2 login with Github.
 
